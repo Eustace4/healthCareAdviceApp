@@ -1,2 +1,1 @@
-# healthCareAdviceApp
-A health care advice app
+# Health-Care
